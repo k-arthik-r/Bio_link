@@ -150,7 +150,7 @@ function App() {
             </div>
           </div>
 
-          <div className=' h-[5.3%] bg-bodya flex justify-center items-center text-xs text-white sm:hidden md:hidden'>
+          <div className=' h-[5.3%] bg-bodya flex justify-center items-center text-xs text-white sm:hidden md:hidden lg:hidden'>
           Copyrights © 2023 Karthik R | All Rights Reserved
         </div>
 
