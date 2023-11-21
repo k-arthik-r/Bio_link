@@ -57,7 +57,7 @@ npx tailwindcss init
 Clone the project
 
 ```bash
-  git clone https://github.com/k-arthik-r/Portfolio_main.git
+  https://github.com/k-arthik-r/Bio_link.git
 ```
 
 Go to the project directory
