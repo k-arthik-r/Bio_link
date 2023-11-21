@@ -1,70 +1,137 @@
-# Getting Started with Create React App
+<h1 align='center'>Portfolio</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
+  <a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a> &nbsp;
+</div>
 
-## Available Scripts
+-------------------------------------
 
-In the project directory, you can run:
+A Bio-link Designed using React, Node JS and Tailwind CSS for Designs.
 
-### `npm start`
+-------------------------------------
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installations
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Installing Node Js and NPM:
 
-### `npm test`
+Recommended : 18.16.0 LTS and above
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://nodejs.org/en" alt="node js">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+        
+-------------------------------------
 
-### `npm run build`
+## Installing Dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Creating a React app:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npx create-react-app biolink
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
 
-### `npm run eject`
+Installing and Initializing Tailwind CSS:
+```bash
+npm install -D tailwindcss
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npx tailwindcss init
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-------------------------------------
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Additional Installations (Not Mandatory)
 
-## Learn More
+**Visual Studio Code**  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://code.visualstudio.com/" alt="VS Code">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a><br>
+<br> 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-------------------------------------
 
-### Code Splitting
+## Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clone the project
 
-### Analyzing the Bundle Size
+```bash
+  git clone https://github.com/k-arthik-r/Portfolio_main.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Go to the project directory
 
-### Making a Progressive Web App
+```bash
+  cd my-project
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Install dependencies
 
-### Advanced Configuration
+```bash
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Start the server
 
-### Deployment
+```bash
+  npm run start
+```
+Can also use 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ ```bash
+ npm run dev
+ ```
+-------------------------------------
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+Or Deploy Directly to Github Pages
+
+```bash
+npm install gh-pages --save-dev
+```
+
+```bash
+"homepage": "https://<github-username>.github.io/<Github Repository Name>",
+
+"predeploy": "npm run build",
+
+"deploy": "gh-pages -d build",
+
+npm run deploy
+```
+
+-------------------------------------
+## Hosting
+Usables:
+  <br /><br /> <a><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> 
+
+The Current Project is Built and deployed Using Github Pages on live: <br />
+  <br /> <a><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+
+-------------------------------------
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+-------------------------------------
+
+## Output
+Check out the Output site for the Project [Here](https://k-arthik-r.github.io/Bio_link/)
+
+-------------------------------------
+
+
+## Feedback
+If you have any feedback, please reach out to us at voidex.developer@gmail.com
