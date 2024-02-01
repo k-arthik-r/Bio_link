@@ -3,7 +3,7 @@
     "main.css": "/static/css/main.8449907e.css",
     "main.js": "/static/js/main.17f92d57.js",
     "static/js/787.4ff6457b.chunk.js": "/static/js/787.4ff6457b.chunk.js",
-    "static/media/white.jpg": "static/media/white.c72185dd6455f2c634d4.jpg",
+    "static/media/white.jpg": "./static/media/white.c72185dd6455f2c634d4.jpg",
     "static/media/portfolio-icon.png": "./static/media/portfolio-icon.fb57dd812e5966495a33.png",
     "static/media/disable-icon.png": "/static/media/disable-icon.cf8eb92896eb84cb7454.png",
     "static/media/information.png": "/static/media/information.3a6175edd9f775a7bf80.png",
