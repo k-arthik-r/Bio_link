@@ -149,6 +149,14 @@ function App() {
               </button>
             </div>
           </div>
+
+          <div className=' h-[5.3%] bg-bodya flex justify-center items-center text-xs text-white sm:hidden md:hidden lg:hidden'>
+          Copyrights © 2023 Karthik R | All Rights Reserved
+        </div>
+
+        </div>
+        <div className=' h-[10%] bg-bodya flex justify-center items-center text-xs text-white lg:hidden'>
+          Copyrights © 2023 Karthik R | All Rights Reserved
         </div>
       </div>
 
