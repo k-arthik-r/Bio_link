@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/Bio_link/static/css/main.8449907e.css",
-    "main.js": "/Bio_link/static/js/main.17f92d57.js",
+    "main.css": "/Bio_link/static/css/main.b9c76da7.css",
+    "main.js": "/Bio_link/static/js/main.07ff66b4.js",
     "static/js/787.4ff6457b.chunk.js": "/Bio_link/static/js/787.4ff6457b.chunk.js",
+    "static/media/video.mp4": "/Bio_link/static/media/video.bf35fe84f26da83d9f65.mp4",
     "static/media/white.jpg": "/Bio_link/static/media/white.c72185dd6455f2c634d4.jpg",
-    "static/media/portfolio-icon.png": "/Bio_link/static/media/portfolio-icon.fb57dd812e5966495a33.png",
     "static/media/disable-icon.png": "/Bio_link/static/media/disable-icon.cf8eb92896eb84cb7454.png",
-    "static/media/information.png": "/Bio_link/static/media/information.3a6175edd9f775a7bf80.png",
-    "static/media/personal-data.png": "/Bio_link/static/media/personal-data.946e32b0a7be5385231f.png",
-    "static/media/discord-color.svg": "/Bio_link/static/media/discord-color.a365a0b9db36bfd9625e2e3053d0c1a6.svg",
-    "static/media/microsoftoutlook-color.svg": "/Bio_link/static/media/microsoftoutlook-color.8b70c7af74390d90349b0036d7ec974d.svg",
+    "static/media/portfolio-icon.png": "/Bio_link/static/media/portfolio-icon.c7547e7d71390a45d650.png",
+    "static/media/details.svg": "/Bio_link/static/media/details.9f4eaf85627590c94309b69693ae1b49.svg",
+    "static/media/microsoftoutlook-color.svg": "/Bio_link/static/media/microsoftoutlook-color.7ddae256dc31d1020e1080f71b2ad27d.svg",
     "static/media/github-color.svg": "/Bio_link/static/media/github-color.a882795a1493f3adfcc1c7b4f32b7c69.svg",
-    "static/media/telegram-color.svg": "/Bio_link/static/media/telegram-color.f114386e5f0623d77b8b43f1520d97a1.svg",
+    "static/media/telegram-color.svg": "/Bio_link/static/media/telegram-color.285f9e4f6f6f42e5a4c87f1b59a1dbe5.svg",
     "index.html": "/Bio_link/index.html",
-    "static/media/linkedin-color.svg": "/Bio_link/static/media/linkedin-color.8d07d1a4602facca8e43f594949a8c49.svg",
+    "static/media/linkedin-color.svg": "/Bio_link/static/media/linkedin-color.16a8e3153d89e7c42fd86434ffa7c102.svg",
     "static/media/icloud-color.svg": "/Bio_link/static/media/icloud-color.76dca1397b4f50d7add89a2c49d23ef5.svg",
-    "static/media/replit-color.svg": "/Bio_link/static/media/replit-color.76fffe8a27ef5fc40afde9aea2ad8e2e.svg",
-    "static/media/x-color.svg": "/Bio_link/static/media/x-color.6c866c5ac5eed75c375495d03b658cf7.svg",
-    "main.8449907e.css.map": "/Bio_link/static/css/main.8449907e.css.map",
-    "main.17f92d57.js.map": "/Bio_link/static/js/main.17f92d57.js.map",
+    "static/media/replit-color.svg": "/Bio_link/static/media/replit-color.186328b5d0ba95b7522c395f5cae05e0.svg",
+    "static/media/x-color.svg": "/Bio_link/static/media/x-color.9b1ade6f21fa237c0795facf91f7d768.svg",
+    "main.b9c76da7.css.map": "/Bio_link/static/css/main.b9c76da7.css.map",
+    "main.07ff66b4.js.map": "/Bio_link/static/js/main.07ff66b4.js.map",
     "787.4ff6457b.chunk.js.map": "/Bio_link/static/js/787.4ff6457b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8449907e.css",
-    "static/js/main.17f92d57.js"
+    "static/css/main.b9c76da7.css",
+    "static/js/main.07ff66b4.js"
   ]
 }
